@@ -1,7 +1,7 @@
 # Your Name
 
 ## Screenshot
-![](https://gfycat.com/academichappygoluckycoqui)
+![](./tenor.gif)
 
 ## Tech Stack
 1. Javascript
@@ -14,3 +14,5 @@
 1. [Ganesha Danu](github.com/blinfoldking)
 
 ## Live Demo  (Optional)
+
+helloproclub.github.io
