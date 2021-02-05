@@ -2,6 +2,7 @@
 No Gabut Challenge Submission
 
 ## How To Submit
+0. read the [rules](https://github.com/helloproclub/no-gabut-2021/blob/main/rules.md)
 1. fork this repo
 2. star this repo
 3. create a new folder with your name with no spaces
