@@ -8,13 +8,13 @@
 6. one content contains your experience in Proclub
 7. one content contains the process of building the project
 8. one content contains with any topic you want
-6. Each Project will be scored and ranked by judge/donator of this event with this criteria
+9. Each Project will be scored and ranked by judge/donator of this event with this criteria
 ```
 1. Tech (80%)
 2. Design (10%)
 3. Content (10%)
 ```
-
+10. Submission deadline on 13 Februari 2021 23.59 WIB
 ## Rewards
 
 ### Main Prize
