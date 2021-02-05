@@ -10,11 +10,11 @@
 4. ...
 
 ## Repository
-1. [here](github.com/helloproclub/Aurora)
+1. [here](https://github.com/helloproclub/Aurora)
 
 ## Contributors
 
-1. [Ganesha Danu](github.com/blinfoldking)
+1. [Ganesha Danu](https://github.com/blinfoldking)
 
 ## Live Demo  (Optional)
 
