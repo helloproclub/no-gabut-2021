@@ -17,13 +17,13 @@
 ## Rewards
 
 ### Main Prize
-1st Place: 900k
-2nd Place: 500k
-3rd Place: 300k
+1st Place: 900k  
+2nd Place: 500k  
+3rd Place: 300k  
 
 ### Honorable Award
-Best Design: 100k
-Best Content: 100k
+Best Design: 100k  
+Best Content: 100k  
 
 ### Doorprize
 2 random doorprize for Proclub newest member who participate, a ticket for online course programme worth 300k each
