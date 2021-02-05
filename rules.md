@@ -1,4 +1,5 @@
 # Rules
+0. Active member only
 1. By submitting your project you agree to all rules being defined in this file
 2. The Project could be made with any tools provided as long as you have the required license or permission by its author
 3. The project could be made alone, or with maximum group of three people
