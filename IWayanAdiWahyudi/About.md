@@ -4,7 +4,7 @@ title: "Challenge No Gabut 2021"
 date:   2021-02-02 17:48:25 +0800
 categories: Software Engineering 
 author: I Wayan Adi Wahyudi
-author_pic: /ss/me.jpg 
+author_pic: insta @adiwahyudii
 project_link: https://github.com/adiwahyudi/adingb2021
 ---
 
