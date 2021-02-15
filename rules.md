@@ -14,7 +14,10 @@
 2. Design (10%)
 3. Content (10%)
 ```
+with total max score of 100pts
 10. Submission deadline on 27th February 2021, 23.59 WIB
+11. any submission submitted before 14th February 2021, 23.59 WIB will gain 20pts extra score
+12. any submission submitted before 21th February 2021, 23.59 WIB will gain 10pts extra score
 ## Rewards
 
 ### Main Prize
