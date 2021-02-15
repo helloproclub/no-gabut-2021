@@ -14,7 +14,7 @@
 2. Design (10%)
 3. Content (10%)
 ```
-10. Submission deadline on 13th February 2021, 23.59 WIB
+10. Submission deadline on 27th February 2021, 23.59 WIB
 ## Rewards
 
 ### Main Prize
